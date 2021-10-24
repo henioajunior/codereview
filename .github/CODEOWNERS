@@ -1,3 +1,4 @@
 *.js @hdajr
 *.github/ @heniojunior
 *.go @heniojunior
+*.java @heniojunior
